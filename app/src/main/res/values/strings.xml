@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculatorS033</string>
+    <string name="tv_title">BMI計算機</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_sai">歳</string>
+    <string name="tv_sintyo">身長</string>
+    <string name="tv_cm">cm</string>
+    <string name="tv_taijyu">体重</string>
+    <string name="tv_kg">kg</string>
+    <string name="bt_keisan">計算</string>
+    <string name="bt_kuria">クリア</string>
+</resources>
